@@ -48,7 +48,7 @@
     "ngx-cookie-service": "^3.0.4",
     "ngx-spinner": "~8.0.3",
     "node-sass": "^4.14.0",
-    "rxjs": "6.5.4",
+    "rxjs": "6.6.2",
     "snarkdown": "^1.2.2",
     "socket.io-client": "^2.3.0",
     "typescript": "~3.7.5",
