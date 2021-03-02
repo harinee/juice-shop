@@ -142,7 +142,7 @@
     "pdfkit": "^0.11.0",
     "portscanner": "^2.2.0",
     "prom-client": "^11.5.3",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "replace": "^1.2.0",
     "request": "^2.88.2",
     "sanitize-filename": "^1.6.3",
