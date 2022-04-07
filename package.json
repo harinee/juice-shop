@@ -119,7 +119,7 @@
     "fs-extra": "^8.1.0",
     "glob": "^7.1.6",
     "grunt": "^1.1.0",
-    "grunt-contrib-compress": "^1.6.0",
+    "grunt-contrib-compress": "^2.0.0",
     "grunt-replace-json": "^0.1.0",
     "hashids": "^2.2.1",
     "helmet": "^3.22.0",
